@@ -6,7 +6,7 @@ Uma aplicação de agendamento de cortes para um cabeleireiro feito como forma d
 <p align="center">
 <a href="">🔗 Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#-desafio">💻 Desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#-projeto">💻 Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-aprendizados">📚 Aprendizados</a>
 </p>
 
@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - FIGMA
 
-## 💻 Desafio
+## 💻 Projeto
 
 O "Hairday" foi um projeto do curso Fullstack da Rocketseat no módulo "JavaScript". Nele, consolidei conhecimentos sobre compiladores, bundlers, criação e consumo de uma API e funções assíncronas, criando uma aplicação dinâmica e interativa.
 
